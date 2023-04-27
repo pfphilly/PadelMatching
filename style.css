@@ -1,5 +1,8 @@
 html{
     background-color: darkslategrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    
 }
 
 .title{
@@ -7,4 +10,32 @@ html{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+.input_fields{
+    border: 2px solid whitesmoke;
+    border-radius: 7px;
+    width: fit-content;
+    padding: 5px;
+}
+.name{
 
+}
+.time{
+    margin-top: 15px;
+}
+.date{
+    margin-top: 15px;
+}
+.skill_level{
+    margin-top: 15px;
+}
+.looking_for_partner{
+    margin-top: 15px;
+}
+
+.submit{
+    margin-top: 15px;
+}
+
+.phone_number{
+    margin-top: 15px;
+}
